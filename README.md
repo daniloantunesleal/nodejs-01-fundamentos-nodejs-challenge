@@ -1,18 +1,6 @@
-## Introdução
-
-Faaala Dev,
-
-Sejam todos muito bem-vindos ao primeiro desafio da trilha de Node.js do Ignite.
-
-Nesse desafio você reforçará de forma prática os **conceitos** que aprendemos nesse módulo.
-
-Como se trata de um desafio, ele necessita de alguns conhecimentos além dos abordados nesse módulo, então é importante que tenha autonomia para conseguir pesquisar essas coisas caso não saiba como resolver. Por isso, lembre-se, t**enha calma** e **acredite no seu processo.**
-
-O aprendizado daqui é muito importante e com certeza você conseguirá sair com muito conhecimento bacana 💜
-
 ## Sobre o desafio
 
-Nesse desafio você desenvolverá uma API para realizar o CRUD de suas *tasks* (tarefas).
+API para realizar o CRUD de suas *tasks* (tarefas).
 
 A API deve conter as seguintes funcionalidades:
 
@@ -75,7 +63,7 @@ Rotas:
 
 Normalmente em uma API, a importação de um CSV acontece enviando o arquivo pela rota, por meio de outro formato, chamado `multipart/form-data`.
 
-Como ainda não vimos isso em aula, a importação será feita de outra forma. Acesse a página abaixo para a explicação:
+Acesse a página abaixo para a explicação:
 
 [Criação via CSV com Stream](https://www.notion.so/Cria-o-via-CSV-com-Stream-21ba6d279991473792787d9265212181?pvs=21)
 
